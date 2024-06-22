@@ -1,0 +1,2 @@
+# DjangoAccounts
+Djangoを使用したユーザー認証モデルです
